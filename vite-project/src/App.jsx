@@ -5,6 +5,9 @@ function App() {
   const todayDate = date.getDate();
   const month = date.getMonth();
   const year = date.getFullYear();
+  // const name = ["cat", "dog"];
+  // const [dog, cat] = name;
+  // console.log(`Dog is ${dog}`);
   return (
     <div>
       <div>
